@@ -35,6 +35,8 @@ We would like to express our gratitude to the open-source community for their in
 
 ## Contact
 
-For questions or inquiries about the AI model, feel free to contact [Project Maintainer](mailto:your-email@example.com).
+For questions or inquiries about the AI model, feel free to contact (sahanwijesundara11@gmail.com).
+
+(this is not 100% accurate we are working on to increase the accuracy of this project,thank you)
 
 Happy deciphering!
